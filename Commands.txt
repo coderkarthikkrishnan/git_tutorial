@@ -15,5 +15,5 @@ git add .
 commit:
 to save the changes it takes a snapshot of all the files in the repository
 
-git commit -m 'initial commit'
+git commit -m "initial commit"
 
