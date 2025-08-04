@@ -19,3 +19,8 @@ git commit -m "initial commit"
 
 git push
 to add the files in the github remote repository 
+
+git branch -> it shows the current branch
+to change branch-> git branch branchname
+
+checkout--> to switch branch
