@@ -17,3 +17,5 @@ to save the changes it takes a snapshot of all the files in the repository
 
 git commit -m "initial commit"
 
+git push
+to add the files in the github remote repository 
