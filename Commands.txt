@@ -1,0 +1,19 @@
+
+To view version:
+
+git --version
+
+Initialize empty git repository:
+
+git init
+
+To track the files /stage
+
+git add .
+[git add can take many parameters we can add one by one file but it takes time so we can use [. operator] to mean all]
+
+commit:
+to save the changes it takes a snapshot of all the files in the repository
+
+git commit -m 'initial commit'
+
